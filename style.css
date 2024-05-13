@@ -1,0 +1,73 @@
+.try{
+    color: #024950;
+    font-style: italic;
+
+}
+html{
+    background-color: #afdde5;
+}
+.bold{
+    font-weight: bold;
+    color: #003135;
+}
+h1{
+    text-align: center;
+    color:#003135;
+    font-style: italic;
+    background-color: #0fa4af;
+}
+#set{
+    text-align: center;
+    font-weight: 700;
+    font-style:normal;
+    color: #003135;
+    background-color: #0fa4af;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    color: #964734;
+    background-color:#024950;
+}
+.adjust{
+    display:inline;
+    margin-left: auto;
+    margin-right:0.5cm;
+
+}
+.div{
+    display:flex;
+    
+    justify-content: center ;
+    background-color: rgb(252, 251, 251);
+    
+}
+.para{
+    color:#003135;
+}
+.edu{
+    color: #003135;
+}
+.sample{
+    color: #003135;
+}
+#blue{
+    font-weight: 500;
+    color: #964734;
+}
+.clr{
+    color:#964734;
+}
+#upper{
+    background-color:#afdde5;
+}
+#whole{
+    background-color: #003135;
+    color: #003135;
+}
